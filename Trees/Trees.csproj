@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AVLtree.cs" />
+    <Compile Include="AVLTreeNode.cs" />
     <Compile Include="Bstree.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />
